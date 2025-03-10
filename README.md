@@ -21,7 +21,7 @@ Hello! I'm **Rohanth Sivakumar**, a passionate 2nd-year Computer Science Enginee
 
 
  📫 How to reach me:
-- **Email: rohanths@gmail.com
-- **GitHub: [github.com/rohanth283
+- Email: rohanths@gmail.com
+- GitHub: github.com/rohanth283
 
 
